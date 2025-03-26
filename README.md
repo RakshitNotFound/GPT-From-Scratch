@@ -1,1 +1,1 @@
-Implementation of paper "All You Need Is Attention" from scratch
+Implementation of the paper "Attention Is All You Need" from scratch.
